@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1046.8106999999995,
+    "videos": [
         "Juan Gabriel - He Venido A Pedirte Perdon [Recuerdos - 1980]-IgFbLciuO7k.mp4",
         "Justice -  We Are Your Friends [HQ Sound]-nr90nbqxuZk.mp4",
         "Joan Sebastian - Tatuajes (Letra Oficial)-AN9jsmZhSmg.mp4",
@@ -104,7 +105,5 @@
         "Street Scene ~ Jay White  (1958)-MCBS9Lek6wM.mp4",
         "Judas Priest - A Touch of Evil (Video)-PW-6FKFnHx8.mp4",
         "02Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4"
-    ],
-    "id": "j1",
-    "total_size": 998.3165791015623
+    ]
 }
