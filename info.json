@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "O4ujW3oe_BQ",
@@ -28,13 +28,6 @@
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Descent-bx76byw1bc0.mp4",
             "size": 4.015967,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Descent-bx76byw1bc0.mp4?raw=true"
-        },
-        {
-            "id": "dR9-4ac3gbs",
-            "name": "JULIO IGLESIAS - POR EL AMOR DE UNA MUJER   HD-dR9-4ac3gbs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/JULIO IGLESIAS - POR EL AMOR DE UNA MUJER   HD-dR9-4ac3gbs.mp4",
-            "size": 13.722567,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/JULIO IGLESIAS - POR EL AMOR DE UNA MUJER   HD-dR9-4ac3gbs.mp4?raw=true"
         },
         {
             "id": "5w40iTNmcbU",
@@ -86,32 +79,11 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Julión Álvarez - Amor Derecho (Audio)-rOx6tOkiN04.mp4?raw=true"
         },
         {
-            "id": "gBbj3SXKGD0",
-            "name": "julio iglesias minueto-gBbj3SXKGD0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/julio iglesias minueto-gBbj3SXKGD0.mp4",
-            "size": 16.966943,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/julio iglesias minueto-gBbj3SXKGD0.mp4?raw=true"
-        },
-        {
             "id": "RXto4t_IuG8",
             "name": "Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4",
             "size": 5.611318,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4?raw=true"
-        },
-        {
-            "id": "ejliCJBY57k",
-            "name": "Juan Gabriel   El Noa Noa-ejliCJBY57k.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Juan Gabriel   El Noa Noa-ejliCJBY57k.mp4",
-            "size": 20.503013,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Juan Gabriel   El Noa Noa-ejliCJBY57k.mp4?raw=true"
-        },
-        {
-            "id": "RXto4t_IuG8",
-            "name": "02Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/02Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4",
-            "size": 8.839774,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/02Julio Iglesias - Me olvidé de vivir-RXto4t_IuG8.mp4?raw=true"
         },
         {
             "id": "oISbc2aqZkw",
@@ -142,11 +114,11 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/The Doors - People Are Strange-j0Mz_IqpZX8.mp4?raw=true"
         },
         {
-            "id": "W4c9D1OzwJE",
-            "name": "Julio Iglesias - Pobre Diablo (DVD Festival De Viña 1981)-W4c9D1OzwJE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Julio Iglesias - Pobre Diablo (DVD Festival De Viña 1981)-W4c9D1OzwJE.mp4",
-            "size": 13.420228,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Julio Iglesias - Pobre Diablo (DVD Festival De Viña 1981)-W4c9D1OzwJE.mp4?raw=true"
+            "id": "mD8TApX3btM",
+            "name": "Orchestral Manoeuvres In The Dark - So In Love [mD8TApX3btM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Orchestral Manoeuvres In The Dark - So In Love [mD8TApX3btM].mp4",
+            "size": 6.69349,
+            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Orchestral Manoeuvres In The Dark - So In Love [mD8TApX3btM].mp4?raw=true"
         },
         {
             "id": "izFLFyUx25M",
@@ -233,25 +205,11 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Juan Gabriel - Ya No Vivo Por Vivir ft. Natalia Lafourcade-sIM4mDQJib4.mp4?raw=true"
         },
         {
-            "id": "371WMwIaCx0",
-            "name": "JULIO IGLESIAS -  UN DIA TÚ UN DIA YO HQ-371WMwIaCx0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/JULIO IGLESIAS -  UN DIA TÚ UN DIA YO HQ-371WMwIaCx0.mp4",
-            "size": 5.958927,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/JULIO IGLESIAS -  UN DIA TÚ UN DIA YO HQ-371WMwIaCx0.mp4?raw=true"
-        },
-        {
             "id": "viMSGJVDbtw",
             "name": "Joan Sebastian y Alberto Vazquez Maracas-viMSGJVDbtw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Joan Sebastian y Alberto Vazquez Maracas-viMSGJVDbtw.mp4",
             "size": 9.548014,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Joan Sebastian y Alberto Vazquez Maracas-viMSGJVDbtw.mp4?raw=true"
-        },
-        {
-            "id": "u2RjYQQp4NQ",
-            "name": "JULIO IGLESIAS - QUIJOTE (HD 2020)-u2RjYQQp4NQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/JULIO IGLESIAS - QUIJOTE (HD 2020)-u2RjYQQp4NQ.mp4",
-            "size": 21.301291,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/JULIO IGLESIAS - QUIJOTE (HD 2020)-u2RjYQQp4NQ.mp4?raw=true"
         },
         {
             "id": "R3qxOdXcPRw",
@@ -310,20 +268,6 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/15. Junior H - Ella [Official Audio]-juZH5kHAmxo.mp4?raw=true"
         },
         {
-            "id": "sIM4mDQJib4",
-            "name": "Juan Gabriel - Ya No Vivo Por Vivir ft. Natalia Lafourcade (Live Recording)-sIM4mDQJib4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Juan Gabriel - Ya No Vivo Por Vivir ft. Natalia Lafourcade (Live Recording)-sIM4mDQJib4.mp4",
-            "size": 28.866633,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Juan Gabriel - Ya No Vivo Por Vivir ft. Natalia Lafourcade (Live Recording)-sIM4mDQJib4.mp4?raw=true"
-        },
-        {
-            "id": "AzRId5OGyIY",
-            "name": "04Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/04Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4",
-            "size": 11.538731,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/04Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4?raw=true"
-        },
-        {
             "id": "NwyUq_0R_XE",
             "name": "Planetary Duality I - Hideous Revelation-NwyUq_0R_XE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Planetary Duality I - Hideous Revelation-NwyUq_0R_XE.mp4",
@@ -373,13 +317,6 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Guns N' Roses - Patience-ErvgV4P6Fzc.mp4?raw=true"
         },
         {
-            "id": "kPneAq4VPbk",
-            "name": "Julio Iglesias - Si me dejas no vale-kPneAq4VPbk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Julio Iglesias - Si me dejas no vale-kPneAq4VPbk.mp4",
-            "size": 4.728922,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Julio Iglesias - Si me dejas no vale-kPneAq4VPbk.mp4?raw=true"
-        },
-        {
             "id": "6CC_ze2L2ow",
             "name": "JUAN GABRIEL - NADIE BAILA COMO TU (VIDEO, AUDIO REMASTERIZADO)-6CC_ze2L2ow.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/JUAN GABRIEL - NADIE BAILA COMO TU (VIDEO, AUDIO REMASTERIZADO)-6CC_ze2L2ow.mp4",
@@ -415,13 +352,6 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Free Fall-qj7sammYKTc.mp4?raw=true"
         },
         {
-            "id": "6CC_ze2L2ow",
-            "name": "Juan Gabriel - Nadie Baila Como Tu ( Video Audio Remasterizado )-6CC_ze2L2ow.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Juan Gabriel - Nadie Baila Como Tu ( Video Audio Remasterizado )-6CC_ze2L2ow.mp4",
-            "size": 21.362869999999997,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Juan Gabriel - Nadie Baila Como Tu ( Video Audio Remasterizado )-6CC_ze2L2ow.mp4?raw=true"
-        },
-        {
             "id": "nr90nbqxuZk",
             "name": "Justice -  We Are Your Friends [HQ Sound]-nr90nbqxuZk.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Justice -  We Are Your Friends [HQ Sound]-nr90nbqxuZk.mp4",
@@ -436,25 +366,11 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Doc Watson - Mama Don't Allow No Music-U-ODoOHoNyQ.mp4?raw=true"
         },
         {
-            "id": "ycx1pb9IgOg",
-            "name": "Entrando cruzado-ycx1pb9IgOg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Entrando cruzado-ycx1pb9IgOg.mp4",
-            "size": 6.919821,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Entrando cruzado-ycx1pb9IgOg.mp4?raw=true"
-        },
-        {
             "id": "ShtTDLqJ4UE",
             "name": "Jan Johansson - Berg–Kirstis polska (Official Audio)-ShtTDLqJ4UE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Jan Johansson - Berg–Kirstis polska (Official Audio)-ShtTDLqJ4UE.mp4",
             "size": 5.716578,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Jan Johansson - Berg–Kirstis polska (Official Audio)-ShtTDLqJ4UE.mp4?raw=true"
-        },
-        {
-            "id": "mD8TApX3btM",
-            "name": "Orchestral Manoeuvres In The Dark - So In Love-mD8TApX3btM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Orchestral Manoeuvres In The Dark - So In Love-mD8TApX3btM.mp4",
-            "size": 12.376576,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Orchestral Manoeuvres In The Dark - So In Love-mD8TApX3btM.mp4?raw=true"
         },
         {
             "id": "llKatW_qPfk",
@@ -539,13 +455,6 @@
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Johnny Burnette - Butterfingers-ib8o8GIkH5E.mp4",
             "size": 2.8939529999999998,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Johnny Burnette - Butterfingers-ib8o8GIkH5E.mp4?raw=true"
-        },
-        {
-            "id": "qk8o6HtYvx8",
-            "name": "Diego Verdaguer - Mentiras Bonitas (OFICIAL HD)-qk8o6HtYvx8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Diego Verdaguer - Mentiras Bonitas (OFICIAL HD)-qk8o6HtYvx8.mp4",
-            "size": 10.280277,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Diego Verdaguer - Mentiras Bonitas (OFICIAL HD)-qk8o6HtYvx8.mp4?raw=true"
         },
         {
             "id": "gBbj3SXKGD0",
@@ -702,13 +611,6 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Manos en el ano official--HJwbxVe8Rg.mp4?raw=true"
         },
         {
-            "id": "2eZxNzA2fbI",
-            "name": "Julio Iglesias - No me vuelvo a enamorar  Clip-2eZxNzA2fbI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Julio Iglesias - No me vuelvo a enamorar  Clip-2eZxNzA2fbI.mp4",
-            "size": 8.921221,
-            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Julio Iglesias - No me vuelvo a enamorar  Clip-2eZxNzA2fbI.mp4?raw=true"
-        },
-        {
             "id": "cuxD1QZMsqc",
             "name": "Snow In Summer-cuxD1QZMsqc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Snow In Summer-cuxD1QZMsqc.mp4",
@@ -772,5 +674,5 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Los Cadetes de Linares - Hay Que Cruz-0wAvQJPu4PY.mp4?raw=true"
         }
     ],
-    "total_size": 1074.5915069999996
+    "total_size": 875.5772029999998
 }
