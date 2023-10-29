@@ -177,6 +177,13 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Pesado - Ojala (Video Oficial)-4mO0q5SZWnw.mp4?raw=true"
         },
         {
+            "id": "8Niu1uia078",
+            "name": "IDEALE - Paolo Tosti - Ricardo Delgado Herbert [8Niu1uia078].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j1/videos/IDEALE - Paolo Tosti - Ricardo Delgado Herbert [8Niu1uia078].mp4",
+            "size": 14.827319999999999,
+            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/IDEALE - Paolo Tosti - Ricardo Delgado Herbert [8Niu1uia078].mp4?raw=true"
+        },
+        {
             "id": "2eZxNzA2fbI",
             "name": "No Me Vuelvo a Enamorar - Julio Iglesias - (Lyrics)-2eZxNzA2fbI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/No Me Vuelvo a Enamorar - Julio Iglesias - (Lyrics)-2eZxNzA2fbI.mp4",
@@ -303,11 +310,25 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Simmer Down (feat. Bob Marley and The Wailers)-pjv1in9dOVA.mp4?raw=true"
         },
         {
+            "id": "mUQHGpxrz-8",
+            "name": "Khachaturian： Sabre Dance ⧸ Rattle · Berliner Philharmoniker [mUQHGpxrz-8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Khachaturian： Sabre Dance ⧸ Rattle · Berliner Philharmoniker [mUQHGpxrz-8].mp4",
+            "size": 20.645426999999998,
+            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Khachaturian： Sabre Dance ⧸ Rattle · Berliner Philharmoniker [mUQHGpxrz-8].mp4?raw=true"
+        },
+        {
             "id": "8-0mF6iiIGw",
             "name": "Piperrak - Revolución-8-0mF6iiIGw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Piperrak - Revolución-8-0mF6iiIGw.mp4",
             "size": 6.2544569999999995,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Piperrak - Revolución-8-0mF6iiIGw.mp4?raw=true"
+        },
+        {
+            "id": "BTAMZhlHFLQ",
+            "name": "Hof-Ball-Tänze Walzer, Op. 51 [BTAMZhlHFLQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j1/videos/Hof-Ball-Tänze Walzer, Op. 51 [BTAMZhlHFLQ].mp4",
+            "size": 22.992653999999998,
+            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Hof-Ball-Tänze Walzer, Op. 51 [BTAMZhlHFLQ].mp4?raw=true"
         },
         {
             "id": "ErvgV4P6Fzc",
@@ -385,6 +406,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j1/videos/Joan Sebastián -Te Voy A Cambiar El Nombre-zdQkd-Pksh4.mp4",
             "size": 13.453728,
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Joan Sebastián -Te Voy A Cambiar El Nombre-zdQkd-Pksh4.mp4?raw=true"
+        },
+        {
+            "id": "WyqjRT2cT5Y",
+            "name": "La Adelita [WyqjRT2cT5Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j1/videos/La Adelita [WyqjRT2cT5Y].mp4",
+            "size": 4.851154999999999,
+            "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/La Adelita [WyqjRT2cT5Y].mp4?raw=true"
         },
         {
             "id": "SSNSRcpuchw",
@@ -674,5 +702,5 @@
             "url": "https://github.com/circuitalmynds/music_j1/blob/main/videos/Los Cadetes de Linares - Hay Que Cruz-0wAvQJPu4PY.mp4?raw=true"
         }
     ],
-    "total_size": 875.5772029999998
+    "total_size": 938.8937589999998
 }
